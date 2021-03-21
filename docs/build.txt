@@ -3,20 +3,19 @@ version="0.6.4"
 zip="https://polishteam.ru/REPOK19/plugin.program.PLTW/plugin.program.PLTW-0.6.7.zip"
 
 
-name="TEST"
+name="CHERRY TV K19 LINK 1"
 version="2.1.9"
 url="https://kodihub.net/92zte"
 minor="http://"
 gui="url.to.guisettings"
 kodi="19.0"
 theme="url.to.themes"
-icon=""
-fanart=""
-preview=""
+icon="http://cherrytv.webd.pl/FTP/cherry/K19/icon.png"
+fanart="http://cherrytv.webd.pl/FTP/cherry/K19/fanart.jpg"
+preview="https://www.youtube.com/watch?v=djV11Xbc914"
 adult="no"
 info="url.to.info"
 description="UWAGA!Instalujac czyscisz calkowicie swoja aplikacje Kodi. Niezapomnij zrobic backupu przed instalacja!"
-
 
 
 name="Bufor 750MB"
@@ -31,4 +30,3 @@ preview="http://"
 adult="no"
 description=""
 counter="1"
-
