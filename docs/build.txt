@@ -1,6 +1,6 @@
 id="plugin.program.PKDZ"
 version="0.0.1"
-zip="https://"
+zip="https://kodihub.net/5hboa"
 
 
 name="TEST"
