@@ -14,7 +14,7 @@ description="Slam19 Test Build"
 
 name="MATRIX2"
 version="1.6"
-url="http://slamiousbuilds.com/blds2/slam19lite.zip"
+url="https://www.dropbox.com/s/5om06ud9xt5vf2u/MATROX2.zip?dl=1"
 minor="http://"
 gui="http://"
 kodi="19.0"
