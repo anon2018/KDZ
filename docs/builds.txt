@@ -12,9 +12,11 @@ adult="no"
 info="http://"
 description="PL"
 
-name="TEST"
+
+
+name="PL2"
 version="0.1"
-url="https://www.dropbox.com/s/w3pf7n5jgcq18lp/PL2.zip?dl=1"
+url="https://www.dropbox.com/s/xj01xeh9zx9for4/PL.zip?dl=1"
 minor="http://"
 gui="http://"
 kodi="19.0"
@@ -24,7 +26,8 @@ fanart="http://slamiousbuilds.com/blds2/slam19lite.jpg"
 preview="http://"
 adult="no"
 info="http://"
-description="PL"
+description="PL2"
+
 
 
 name="SKINSF"
