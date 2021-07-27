@@ -13,23 +13,6 @@ info="http://"
 description="PL"
 
 
-
-name="REPO PACK"
-version="0.1"
-url="https://www.dropbox.com/s/pu7d5r9xaw9b7lh/REPOPACK.zip?dl=1"
-minor="http://"
-gui="http://"
-kodi="19.0"
-theme="http://"
-icon="http://slamiousbuilds.com/blds2/slam19lite.jpg"
-fanart="http://slamiousbuilds.com/blds2/slam19lite.jpg"
-preview="http://"
-adult="no"
-info="http://"
-description="REPO PACK"
-
-
-
 name="SKINSF"
 version="0.1"
 url="https://www.dropbox.com/s/k5wkoojznddu5jm/SKINSF.zip?dl=1"
@@ -45,18 +28,3 @@ info="http://"
 description="PL"
 
 
-
-
-name="SKINPACK"
-version="0.1"
-url="https://www.dropbox.com/s/cit6zb625q5lj0t/SKINPACK.zip?dl=1"
-minor="http://"
-gui="http://"
-kodi="19.0"
-theme="http://"
-icon="http://slamiousbuilds.com/blds2/slam19lite.jpg"
-fanart="http://slamiousbuilds.com/blds2/slam19lite.jpg"
-preview="http://"
-adult="no"
-info="http://"
-description="PL"
