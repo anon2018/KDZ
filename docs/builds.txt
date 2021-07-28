@@ -12,7 +12,7 @@ adult="no"
 info="http://"
 description="PL"
 
-name="UPDATESKINPACK"
+name="SKINPACK"
 version="0.1"
 url="https://kodihub.net/36k97"
 minor="http://"
