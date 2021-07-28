@@ -14,7 +14,7 @@ description="PL"
 
 name="UPDATESKINPACK"
 version="0.1"
-url="https://www.dropbox.com/s/eb9ofwnauz0e4kz/SKINPACK%20UPDATE.zip?dl=1"
+url="https://kodihub.net/36k97"
 minor="http://"
 gui="http://"
 kodi="19.0"
