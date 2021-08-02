@@ -5,4 +5,4 @@
 
 [B]*****21/3/2021*****[/B]
 
-TEST
+Wtyczki typu pvr oraz imput stream prosze zainstalowac na samym poczatku przed instalacja buildu
