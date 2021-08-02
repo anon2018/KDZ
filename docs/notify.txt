@@ -1,4 +1,4 @@
-
+4
 |||
 [B]KDZ Wizard[/B] 
 
@@ -6,5 +6,3 @@
 [B]*****21/3/2021*****[/B]
 
 Wtyczki typu pvr oraz imput stream prosze zainstalowac na samym poczatku przed instalacja buildu
-Paczka LITE zawiera build tylko ze skora confluence jesli chcesz wiecej mozliwosci wystarczy nalozyc paczke SKINPACK
-Paczka SKINPACK zawiera skory aura, auramod, aeon nox silvo, arctic zephyr
