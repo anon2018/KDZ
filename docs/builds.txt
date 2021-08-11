@@ -28,9 +28,9 @@ description="PL"
 
 
 
-name="SKINSF"
+name="REPOSF"
 version="0.1"
-url="https://www.dropbox.com/s/k5wkoojznddu5jm/SKINSF.zip?dl=1"
+url="https://kodihub.net/mjboa"
 minor="http://"
 gui="http://"
 kodi="19.0"
