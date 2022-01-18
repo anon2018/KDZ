@@ -43,3 +43,19 @@ info="http://"
 description="PL"
 
 
+
+
+name="SHORTCUTS"
+version="0.1"
+url="https://kodihub.net/vi73q"
+minor="http://"
+gui="http://"
+kodi="19.0"
+theme="http://"
+icon="http://"
+fanart="http://"
+preview="http://"
+adult="no"
+info="http://"
+description="PL"
+
