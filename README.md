@@ -1,12 +1,6 @@
 # KDZ
 
-Wizard KDZ
-
-build jest darmowy !!!!!!!!!!!!!!, 
-nie zawiera list m3u do iptv, kont, loginów i adresów,
-jest wielo platformowy a co najważniejsze CZYSTY, 
-nie zawiera zbędnych nie używanych plików
-kożystacie na własną odpowiedzialność
+kożystacie na własną odpowiedzialność radzę nie instalować, zawartość testowa, niestabilna, może skutkować wykasowaniem profilu
 
 
 
