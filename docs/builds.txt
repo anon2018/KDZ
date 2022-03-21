@@ -28,26 +28,10 @@ description="PL"
 
 
 
-name="REPOSF"
+
+name="SKINSFAUTO"
 version="0.1"
-url="https://kodihub.net/mjboa"
-minor="http://"
-gui="http://"
-kodi="19.0"
-theme="http://"
-icon="http://"
-fanart="http://"
-preview="http://"
-adult="no"
-info="http://"
-description="PL"
-
-
-
-
-name="SHORTCUTS"
-version="0.1"
-url="https://kodihub.net/vi73q"
+url="https://kodihub.net/g7u7a"
 minor="http://"
 gui="http://"
 kodi="19.0"
