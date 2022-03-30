@@ -29,6 +29,23 @@ description="PL"
 
 
 
+name="TEMP"
+version="0.1"
+url="hhttps://www.dropbox.com/s/5st9nlkcshool2o/LOAD.zip?dl=1"
+minor="http://"
+gui="http://"
+kodi="19.0"
+theme="http://"
+icon="http://"
+fanart="http://"
+preview="http://"
+adult="no"
+info="http://"
+description="PL"
+
+
+
+
 name="SKINSFAUTO"
 version="0.1"
 url="https://kodihub.net/g7u7a"
