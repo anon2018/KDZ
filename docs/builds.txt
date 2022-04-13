@@ -31,7 +31,7 @@ description="PL"
 
 name="TEMP"
 version="0.1"
-url="https://www.dropbox.com/s/kju5ot5kpgaia4c/FULL.zip?dl=1"
+url="h"
 minor="http://"
 gui="http://"
 kodi="19.0"
