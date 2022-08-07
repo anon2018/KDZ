@@ -14,7 +14,7 @@ description="PL"
 
 name="USTAWINIA"
 version="0.1"
-url="https://www.dropbox.com/s/roe4mlg5lcxe4rl/CLEAN.zip?dl=1"
+url=""
 minor="http://"
 gui="http://"
 kodi="19.0"
