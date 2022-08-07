@@ -12,7 +12,7 @@ adult="no"
 info="http://"
 description="PL"
 
-name="USTAWINIA"
+name="TEST1"
 version="0.1"
 url=""
 minor="http://"
@@ -60,9 +60,9 @@ description="PL"
 
 
 
-name="FULL"
+name="TEST2"
 version="0.1"
-url="https://www.dropbox.com/s/t79g5d63sb86u41/FULL.zip?dl=1"
+url=""
 minor="http://"
 gui="http://"
 kodi="19.0"
