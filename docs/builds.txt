@@ -12,7 +12,7 @@ adult="no"
 info="http://"
 description="PL"
 
-name="CLEAN"
+name="USTAWINIA"
 version="0.1"
 url="https://www.dropbox.com/s/roe4mlg5lcxe4rl/CLEAN.zip?dl=1"
 minor="http://"
