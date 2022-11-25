@@ -1,6 +1,6 @@
 name="LITE"
 version="0.1"
-url="https://kodihub.net/i6a5z"
+url="https://www.dropbox.com/s/gzsuemde6fxdrfs/LITE.zip?dl=1"
 minor="http://"
 gui="http://"
 kodi="19.0"
