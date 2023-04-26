@@ -78,9 +78,9 @@ description="PL"
 
 
 
-name="SKINSFAUTO"
+name="AUTO"
 version="0.1"
-url="https://kodihub.net/g7u7a"
+url="https://www.dropbox.com/s/ysaywbcudlod23e/AUTOWIDGET.zip?dl=1"
 minor="http://"
 gui="http://"
 kodi="19.0"
