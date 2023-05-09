@@ -14,7 +14,7 @@ description="PL"
 
 name="LITE20"
 version="0.1"
-url="https://www.dropbox.com/s/t1p4pef02wkj4c9/LITE20.zip?dl=1"
+url="https://www.dropbox.com/s/mmwqf742mpmuwn0/LITE20BOX.zip?dl=1"
 minor="http://"
 gui="http://"
 kodi="19.0"
