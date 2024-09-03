@@ -1,6 +1,6 @@
 name="LITE"
 version="0.1"
-url="https://www.dropbox.com/scl/fi/9ylmq819k97y7y84r8lqc/LITE20.zip?rlkey=g8ff818idksvieza9ipbbjh3e&st=2y2rkrkw&dl=1"
+url="https://www.dropbox.com/scl/fi/mjenpiy6yy37n2hlpv6o0/kodiczysty.zip?rlkey=98re312mlcf7rcqu9wedxwogy&st=pqe3gcju&dl=1"
 minor="http://"
 gui="http://"
 kodi="19.0"
