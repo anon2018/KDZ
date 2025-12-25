@@ -1,6 +1,6 @@
 name="LITE"
 version="0.1"
-url="https://www.dropbox.com/scl/fi/c0estb2mnjkqoht7944sh/addons.zip?rlkey=lszen4e8tmuoutguw8stig19p&st=v1vo13ru&dl=1"
+url="https://www.dropbox.com/scl/fi/lcskp0u00suglnobbjfpc/fulll.zip?rlkey=hwn80nyn4a1p1xbm9gnmk3kb1&st=i3coyn0b&dl=1"
 minor="http://"
 gui="http://"
 kodi="19.0"
@@ -91,4 +91,5 @@ preview="http://"
 adult="no"
 info="http://"
 description="PL"
+
 
